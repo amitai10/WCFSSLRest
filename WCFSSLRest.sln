@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFSSLRest", "WCFSSLRest\WCFSSLRest.csproj", "{4B31CC67-8934-4C26-8E9E-F70284BC1F50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFSSLRestHost", "WCFSSLRestHost\WCFSSLRestHost.csproj", "{268921CE-DE05-4C36-A0B9-3DB7BAD282C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B31CC67-8934-4C26-8E9E-F70284BC1F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B31CC67-8934-4C26-8E9E-F70284BC1F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B31CC67-8934-4C26-8E9E-F70284BC1F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B31CC67-8934-4C26-8E9E-F70284BC1F50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{268921CE-DE05-4C36-A0B9-3DB7BAD282C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268921CE-DE05-4C36-A0B9-3DB7BAD282C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268921CE-DE05-4C36-A0B9-3DB7BAD282C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268921CE-DE05-4C36-A0B9-3DB7BAD282C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
